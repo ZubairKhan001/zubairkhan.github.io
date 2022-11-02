@@ -32,6 +32,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?hl=en&user=GzPDyT8AAAAJ"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-9651-5767"}
   - {title: Github, icon: github, url: "https://github.com/ZubairKhan001"}
+  - {title: Stackoverflow, icon: stack-overflow, url: "https://stackoverflow.com/users/9110143/khan"}
 
 plugins:
  - jekyll-feed
