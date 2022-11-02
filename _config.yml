@@ -10,7 +10,6 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 icon: ­ЪДа # the emoji used as the favicon
-encoding: utf-8 
 # Layout
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
