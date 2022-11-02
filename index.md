@@ -3,7 +3,7 @@ layout: page
 title: "Welcome to my page"
 ---
 
-<img align="right" img width=150 src="Me.jpg">
+<img align="right" img width=140 src="Zubair.jpg">
 
 **Short Bio** (Last update: October 2022).
 
