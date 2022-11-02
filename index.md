@@ -1,10 +1,9 @@
-<img align="right" img width=150 src="Me.jpg">
-
 ---
 layout: page
 title: "Welcome to my page"
 ---
 
+<img align="right" img width=150 src="Me.jpg">
 
 **Short Bio** (Last update: November 2022).
 
