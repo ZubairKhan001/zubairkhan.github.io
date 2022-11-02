@@ -1,15 +1,15 @@
-# -----------------------------------------------------------------------------
+﻿# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
 title: "Zubair Khan"
 author: "Zubair Khan"
-description: "Zubair Khan �2022"
+description: "Zubair Khan ┬Е2022"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-icon: 🧠 # the emoji used as the favicon
+icon: ­ЪДа # the emoji used as the favicon
 
 # Layout
 show_social: true 
