@@ -4,7 +4,7 @@
 
 title: "Zubair Khan"
 author: "Zubair Khan"
-description: "Zubair Khan Â©2022"
+description: "Zubair Khan ©2022"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,6 @@ minimal: false            # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV & Publications", file: "publications.md"}
-  # - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
   - {url: "zubaikhan.pdf", title: "CV"}
   - {title: "Media", file: "/media.md"}
 
@@ -34,8 +33,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?hl=en&user=GzPDyT8AAAAJ"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-9651-5767"}
   - {title: Github, icon: github, url: "https://github.com/ZubairKhan001"}
-  # - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
-
 
 plugins:
  - jekyll-feed
