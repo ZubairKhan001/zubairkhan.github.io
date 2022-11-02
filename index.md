@@ -2,10 +2,10 @@
 layout: page
 title: "Welcome to my page"
 ---
+<img src="Me.jpg" alt="Profile pic" style="float:right;width:150px;">
 
-<img align="right" img width=150 src="Me.jpg">
 
-**Short Bio** (Last update: October 2022).
+**Short Bio** (Last update: November 2022).
 
 <br /> I have done Ph.D. from at [Shanghai Jiaotong University](https://en.sjtu.edu.cn/). My research interest mainly captures unsupervised image segmentation that spans from clustering techniques in machine learning to self-supervised representation learning in deep learning.  
 
