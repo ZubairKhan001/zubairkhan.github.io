@@ -1,0 +1,55 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: "Zubair Khan"
+author: "Zubair Khan"
+description: "Zubair Khan ©2022"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+icon: 🧠 # the emoji used as the favicon
+
+# Layout
+show_social: true 
+show_excerpts: false      # show article excerpts on the home page
+show_frame: false         # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false            # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "CV & Publications", file: "publications.md"}
+  # - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
+  - {url: "zubaikhan.pdf", title: "CV"}
+  - {title: "Media", file: "/media.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:zubairkhan@sjtu.edu.cn"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zubair-khan-357b2b56/"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Zubair-Khan-29"}
+  - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?hl=en&user=GzPDyT8AAAAJ"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-9651-5767"}
+  - {title: Github, icon: github, url: "https://github.com/ZubairKhan001"}
+  # - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
+
+
+plugins:
+ - jekyll-feed
+ - jemoji
+ - jekyll-archives
+ - jekyll-diagrams
+ - jekyll-email-protect
+ - jekyll-github-metadata
+ - jekyll-imagemagick
+ - jekyll-paginate-v2
+ - jekyll/scholar
+ - jekyll-sitemap
+ - jekyll-target-blank
+ - jekyll-twitter-plugin
+ - jekyll-gist
+ 
+theme: jekyll-theme-minimal
