@@ -4,7 +4,7 @@
 
 title: "Zubair Khan"
 author: "Zubair Khan"
-description: "Zubair Khan ┬Е2022"
+description: "Zubair Khan Е2022"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV & Publications", file: "publications.md"}
   - {url: "zubairkhan.pdf", title: "CV"}
-  - {title: "Media", file: "/media.md"}
+  # - {title: "Media", file: "/media.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zubairkhan@sjtu.edu.cn"}
