@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zubairkhan@sjtu.edu.cn"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/Hawk_444"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zubair-khan-357b2b56/"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Zubair-Khan-29"}
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?hl=en&user=GzPDyT8AAAAJ"}
