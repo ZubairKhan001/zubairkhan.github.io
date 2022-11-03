@@ -4,12 +4,13 @@
 
 title: "Zubair Khan"
 author: "Zubair Khan"
-description: "Zubair Khan Е2022"
+description: "Zubair Khan ©2022"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-icon: ­ЪДа # the emoji used as the favicon
+icon: 🧠 # the emoji used as the favicon
+
 # Layout
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
@@ -33,6 +34,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-9651-5767"}
   - {title: Github, icon: github, url: "https://github.com/ZubairKhan001"}
   - {title: Stackoverflow, icon: stack-overflow, url: "https://stackoverflow.com/users/9110143/khan"}
+  - {title: PAMI SJTU, icon: landmark, url: "http://www.pami.sjtu.edu.cn/StudentDetail/49"}
 
 plugins:
  - jekyll-feed

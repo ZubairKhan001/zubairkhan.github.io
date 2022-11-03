@@ -23,7 +23,7 @@ title: ""
 
 22. Asad, M., Yang, Z., **Khan, Zubair**, Yang, J., He, X. (2019). Feature Fusion Based Deep Spatiotemporal Model for Violence Detection in Videos. * Neural Information Processing (ICONIP)*, 11953, 405. [doi: 10.1007/978-3-030-36708-4_33](https://doi.org/10.1007/978-3-030-36708-4_33).
 
-26. Khan, Zubair and Ni, Jianjun and Fan, Xinnan and Shi, Pengfei (2017). An improved K-means clustering algorithm based on an adaptive initial parameter estimation procedure for image segmentation. *International Journal of Innovative Computing, Information and Control (IJICIC))*. (EI paper)(www.ijicic.org/ijicic-130506.pdf).
+26. Khan, Zubair and Ni, Jianjun and Fan, Xinnan and Shi, Pengfei (2017). An improved K-means clustering algorithm based on an adaptive initial parameter estimation procedure for image segmentation. *International Journal of Innovative Computing, Information and Control (IJICIC))*, 13(5), 1509.[doi: 10.24507/ijicic.13.05.1509] (EI paper)(www.ijicic.org/ijicic-130506.pdf).
 
 24. Pengfei Shi, Xinnan Fan, Jianjun Ni, **Zubair Khan**, Min Li (2017).A novel underwater dam crack detection and classification approach based on sonar images. *Plos One*, 12 (6), e0179627. [doi: 10.1371/journal.pone.0179627](https://doi.org/10.1371/journal.pone.0179627) (Open Access).
 
